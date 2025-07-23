@@ -1,0 +1,5 @@
+0: Bottle_image
+1: Id_image
+2: Mobile_image
+3: Pen_image
+4: Watch_image
